@@ -10,6 +10,7 @@ import com.br.citiesapi.countries.entities.Country;
  * @author dionatan
  *
  */
+
 @Repository
 public interface CountryRepository extends JpaRepository<Country, Long> {
 
