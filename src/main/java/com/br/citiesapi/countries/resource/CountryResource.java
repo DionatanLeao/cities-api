@@ -1,4 +1,4 @@
-package com.br.citiesapi.resource;
+package com.br.citiesapi.countries.resource;
 
 import java.util.Optional;
 
